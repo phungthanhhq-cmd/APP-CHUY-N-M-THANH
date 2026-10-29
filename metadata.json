@@ -1,0 +1,8 @@
+{
+  "name": "Remix CHUYỂN VĂN BẢN THÀNH GIỌNG NÓI",
+  "description": "Generate high-quality, natural-sounding speech from text using Google\u0027s Gemini API. Customize voices, speed, and pitch, with full support for SSML for advanced control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
